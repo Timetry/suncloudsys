@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="suncloudsys:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="suncloudsys.war">
+      <element id="artifact" artifact-name="suncloudsys:war exploded" />
+    </root>
+  </artifact>
+</component>
